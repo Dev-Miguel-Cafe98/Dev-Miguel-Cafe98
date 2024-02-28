@@ -1,6 +1,6 @@
 # Bem-Vindo (@) meu perfil 
 
-![GITHUB-CAPA]() 
+![GITHUB-CAPA](https://github.com/Dev-Miguel-Cafe98/Capa/blob/main/Drone_Navigation_System.gif) 
 
 
 
