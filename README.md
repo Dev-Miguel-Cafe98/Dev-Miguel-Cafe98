@@ -7,7 +7,7 @@
 <p align="left"> 
  Olá, meu nome é Weslley Miguel e sou um Web Developer se especializando ainda mais na area, adquirindo experiência de UI/UX e aprendendo também na área de Back-end. Minha stack inclui <strong>JavaScript</strong>, <strong>React</strong>, <strong>Node.js</strong>.
 
-Atualmente, estou [Fazendo Curso no Senac na Penha, e Estudando no Curso do DevEmDobro, que comprei para me exercita e ganhar mais experiência na area, á qual o Curso vai desde do Basico ao Avançado, estou criando atualmente algumas Wifreme e Desenvolvendo ideias para familiares que trabalha em outros áreas. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e crescer profissionalmente.
+Atualmente, estou Fazendo Curso no Senac na Penha, e Estudando no Curso do DevEmDobro, que comprei para me exercita e ganhar mais experiência na area, á qual o Curso vai desde do Basico ao Avançado, estou criando atualmente algumas Wifreme e Desenvolvendo ideias para familiares que trabalha em outros áreas. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e crescer profissionalmente.
 
 Se você tiver algum projeto ou ideia que gostaria de discutir, entre em contato!
 </p>
